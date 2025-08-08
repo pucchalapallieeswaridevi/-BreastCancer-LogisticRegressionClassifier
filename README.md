@@ -22,9 +22,9 @@ The decision threshold is tuned, and the sigmoid function is explained visually.
 ## 📸 Screenshots
 Here are some outputs from the project:
 
-![Screenshot 1](figure1.png)  
-![Screenshot 2](Figure2.png)  
-![Screenshot 3](figure3.png)  
+![Screenshot 1](figure.1.png)  
+![Screenshot 2](Figure.2.png)  
+![Screenshot 3](figure.3.png)  
 
 ---
 
